@@ -23,3 +23,7 @@ def get_info_about_sign_zodiac(request, sign_zodiac):
         return HttpResponse(description)
     else:
         return HttpResponseNotFound(f"Неизвестный знак зодиака - {sign_zodiac}")
+
+
+def get_info_about_sign_zodiac_by_number(request, sign_zodiac: int):
+    return HttpResponse(f"This is number {sign_zodiac}")
