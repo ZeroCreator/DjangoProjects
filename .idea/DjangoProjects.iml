@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/django-lessons" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/django-lessons/lesson-2/coolsite" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/django-lessons/lesson-2/coolsite/coolsite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/django-lessons/lesson-3/coolsite" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/django-lessons/lesson-9/venv/Lib" />
       <excludeFolder url="file://$MODULE_DIR$/django-lessons/lesson-9/venv/Scripts" />
       <excludeFolder url="file://$MODULE_DIR$/django-lessons/lesson-10/venv/Lib" />
