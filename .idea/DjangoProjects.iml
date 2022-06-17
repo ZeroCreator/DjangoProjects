@@ -17,7 +17,7 @@
       <excludeFolder url="file://$MODULE_DIR$/DRF/API/drf-1/venv/Include" />
     </content>
     <content url="file://$MODULE_DIR$/parsingWeb/venv" />
-    <orderEntry type="jdk" jdkName="Python 3.10 (DjangoProjects)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (DjangoProjects)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
